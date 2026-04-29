@@ -12,7 +12,7 @@
 
 
 
-!\[游戏运行画面](screenshot.png)
+![游戏运行画面](screenshot.png)
 
 
 
